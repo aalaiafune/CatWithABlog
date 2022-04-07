@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--The head gives the browser information needed to render the page.-->
+        <title>Cat With a Blog</title>
+        <link rel="stylesheet" href="css/style.css" />
+    </head>
+    <body>
+        <!--The content of the page goes here.-->
+        <header>
+            <h1>Cat With a Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h2>About Me:</h2>
+            <img src="images/catphoto2.png" alt="An orange cat next to a strawberry"/>
+            <p>I am Pluto, the cat with a blog. I was born in a dark, crummy alley located in New York City. I was one of a set of six kittens. My mother disappeared a few years into my life and 
+                my sibling were lucky enough to get picked up off the street shortly after. I would spend days aimlessly wandering the streets of the city, but by doinbg so
+                I know my way around it and the best spots to be. Eventually I did get rescued by a nice girl, Venus, she owns an internet cafe in the city and
+                that is how I started up this blog, I am beyond thankful. I was alone for a while but ever since I started this blog I have felt even less so. 
+                I have recently picked up hobbies like chasing birds and scouting out the best nap spots in NYC, so stay tuned! Meow!
+            </p>
+            <h3>Blog Posts:</h3>
+            <p>April 7th 12:28pm
+                Today at the cafe some guy dropped his bagel, dont mind if I do
+            </p>
+            <p>March 29th 2pm
+                It's still rainy and cold outside, yuck, not ideal kitty weather. 
+                Guess I will just nap all day, oh well. 
+            </p>
+            <p>March 17th 8:45am
+                Woke up to some parade outside, lots of green humans. Is there such a thing
+                as a green cat, and if so contact me asap I must see. Seems like a special day 
+                hope I get a treat out of it.
+            </p>
+            <p>March 4th 11:15am
+                Venus bought new cat food, don't trust the Meow Mix commercials those
+                cats are paid actors. Not cat blog approved.
+
+            </p>
+        </main>
+    </body>
+
+</html>
