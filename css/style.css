@@ -1,0 +1,44 @@
+body {
+    background-color:aliceblue;
+    margin: 0 auto; 
+    width: 90%;
+}
+
+header{
+    background-color:lightskyblue;
+    color:papayawhip;
+}
+
+nav{
+    background-color: lavender;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    background-color: gainsboro;
+    margin-bottom: 0;
+    margin-right: 0.5em;
+    border: 1px darkgray outset;
+    padding: 5px;
+    border-radius: 3px;
+    box-shadow: 1px 1px black;
+}
+
+nav ul li:active {
+    border: 3px darkgray inset;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: lemonchiffon;
+}
+
+img {
+    object-fit: contain;
+    object-fit:scale-down;
+}
